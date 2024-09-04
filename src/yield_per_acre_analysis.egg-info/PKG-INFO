@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: yield_per_acre_analysis
+Version: 0.1.0
+Summary: A project to analyze yield per acre based on various investments.
+Author: Adithya Bandara
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: jupyter
+Requires-Dist: joblib
+Requires-Dist: category_encoders
+Requires-Dist: flask

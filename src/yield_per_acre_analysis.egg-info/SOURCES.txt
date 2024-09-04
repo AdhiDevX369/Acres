@@ -1,0 +1,7 @@
+setup.py
+src/yield_per_acre_analysis.egg-info/PKG-INFO
+src/yield_per_acre_analysis.egg-info/SOURCES.txt
+src/yield_per_acre_analysis.egg-info/dependency_links.txt
+src/yield_per_acre_analysis.egg-info/entry_points.txt
+src/yield_per_acre_analysis.egg-info/requires.txt
+src/yield_per_acre_analysis.egg-info/top_level.txt

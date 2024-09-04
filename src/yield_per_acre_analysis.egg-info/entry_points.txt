@@ -1,0 +1,2 @@
+[console_scripts]
+run-analysis = src.investment_analysis:main
