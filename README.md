@@ -14,7 +14,7 @@ This repository contains code for predicting whether a yield will be profitable 
 2. Create and activate a new Conda virtual environment:
 
     ```shell
-    conda create --prefix .\venv python=3.8
+    conda create -n pred-yield python=3.8
     conda activate pred-yield
     ```
 
